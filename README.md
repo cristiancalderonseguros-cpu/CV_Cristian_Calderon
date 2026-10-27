@@ -11,7 +11,7 @@
 ## 🏢 🛡️ Insurance Advisor | Software Analysis and Development Student
 
 Insurance professional with 8+ years of experience in insurance consulting, risk management, policy quoting, issuance, and renewals across auto, life, home, health, and SME insurance. Skilled in customer relationship management, sales, and CRM platforms. Currently studying Software Analysis and Development, with a growing interest in programming, technology, and digital solutions to improve business processes and the insurance industry. Passionate about continuous learning and combining insurance expertise with software development.
-### **Empresa XYZ** _(2015 - Actualidad)_
+
 - Gestor de riesgos y tendencias.
 
 ### **Seguros Sura** _(20005 - 2020)_
