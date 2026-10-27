@@ -1,74 +1,53 @@
-# CV_Example
+# CV_Cristian_Calderon
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Cristian Camilo Calderon
+**Profesión:** _Asesor de Seguros_
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Teléfono:** +57 316xxxxxxx
+- **Email:** [correo@ejemplo.com](cristiancalderon.seguros@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
-## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+## 🏢 🛡️ Insurance Advisor | Software Analysis and Development Student
 
-### **Empresa ABC** _(2018 - 2020)_
+Insurance professional with 8+ years of experience in insurance consulting, risk management, policy quoting, issuance, and renewals across auto, life, home, health, and SME insurance. Skilled in customer relationship management, sales, and CRM platforms. Currently studying Software Analysis and Development, with a growing interest in programming, technology, and digital solutions to improve business processes and the insurance industry. Passionate about continuous learning and combining insurance expertise with software development.
+### **Empresa XYZ** _(2015 - Actualidad)_
+- Gestor de riesgos y tendencias.
+
+### **Seguros Sura** _(20005 - 2020)_
 - Puesto ocupado y descripción breve.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+**Tecnólogo en Análisis y Desarrollo de Software (ADSO) — SENA. En formación.**
+
+**Formación en Gestión del Riesgo en Seguros — SENA, 2023–2025.**
+
+**Tecnico en sistemas** 
+
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+Comunicación asertiva.
 
----
+Orientación al cliente.
 
-## 🎨 Formatos y Fuentes Disponibles
+Pensamiento analítico.
 
-### **Negrita:**
-- `**Texto en negrita**` → **Texto en negrita**
+Trabajo en equipo.
 
-### **Cursiva:**
-- `*Texto en cursiva*` → *Texto en cursiva*
-- `_Texto en cursiva_` → _Texto en cursiva_
+Adaptabilidad y aprendizaje continuo.
 
-### **Combinado:**
-- `***Texto en negrita y cursiva***` → ***Texto en negrita y cursiva***
+Organización y responsabilidad.
 
-### **Encabezados:**
-- `# Encabezado 1`
-- `## Encabezado 2`
-- `### Encabezado 3`
+🚀 Proyectos
 
-### **Citas:**
-> Esto es una cita
+Estoy en proceso de fortalecer mis habilidades mediante proyectos académicos y personales relacionados con el desarrollo de software.
 
-### **Código:**
-- `` `código en línea` `` → `código en línea`
-- ```
-  Código en bloque
-  ```
+En este espacio compartiré mis avances, ejercicios de programación y proyectos que reflejen mi crecimiento profesional y tecnológico.
 
-### **Listas:**
-- `- Elemento de lista`
-- `1. Elemento numerado`
 
-### **Enlaces:**
-- `[Texto del enlace](https://ejemplo.com)` → [Texto del enlace](https://ejemplo.com)
+<img width="2396" height="1112" alt="image" src="https://github.com/user-attachments/assets/d77075ae-60fb-45d2-b898-5187407b09f8" />
 
-### **Imágenes:**
-- `![Texto alternativo](https://ejemplo.com/imagen.jpg)`
 
-### **Tablas:**
-| Encabezado 1 | Encabezado 2 |
-|-------------|-------------|
-| Dato 1     | Dato 2      |
 
----
-
-Esta plantilla en Markdown es editable y adaptable para cada estudiante. ¡Personaliza según sea necesario! 🎯
 
