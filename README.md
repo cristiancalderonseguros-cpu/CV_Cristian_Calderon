@@ -1,12 +1,11 @@
 # CV_Cristian_Calderon
-# Hoja de Vida
 
 ## Cristian Camilo Calderon
-**Profesión:** _Asesor de Seguros_
+**Profesión: **_Asesor de Seguros_** **y** **_estudiante de Desarrollo de Software**_
 
 ## 📞 Contacto
 - **Teléfono:** +57 316xxxxxxx
-- **Email:** [correo@ejemplo.com](cristiancalderon.seguros@gmail.com)
+- **Email:**cristiancalderon.seguros@gmail.com**
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 🛡️ Insurance Advisor | Software Analysis and Development Student
